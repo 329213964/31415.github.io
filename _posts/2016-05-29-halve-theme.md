@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title:  "Halve Jekyll Theme"
 date:   2016-05-29
@@ -10,6 +10,8 @@ tag:
 - vangeltzo
 - theme
 - vangelis
+- java
+- ubantu
 ---
 
 <a href="{{ site.url }}/images/halve-home-image.png"><img src="{{ site.url }}/images/halve-home-image.png" alt="Home Page of Halve"></a>  
