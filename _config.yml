@@ -1,7 +1,7 @@
 # Site
 title: Halve
 description: Stylish, Two-Column Jekyll Theme
-url: https://www.foxcii.com/Halve
+url: https://www.foxcii.com/
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -63,3 +63,5 @@ gems:
 # Exclude list
 include: [_pages]
 exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
+
+theme: jekyll-theme-slate
